@@ -1,5 +1,3 @@
-function greet (lol) {
-  console.log("Gergo " + lol)
+function greet () {
+  console.log("Greetings!")
 }
-
-greet("Józska")

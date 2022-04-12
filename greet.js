@@ -1,3 +1,3 @@
-function greet (param1, param2) {
-  console.log("Gr ", param1, param2)
+function greet (param) {
+  console.log('Greetings for the' + param)
 }

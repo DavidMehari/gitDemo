@@ -1,5 +1,3 @@
-function count (param) {
-  console.log(param);
+function count (param1, param2) {
+  console.log(param1, param2);
 }
-
-count(11)

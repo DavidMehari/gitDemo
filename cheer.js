@@ -1,3 +1,3 @@
-function cheer() {
-  console.log("group4");
+function cheer(param) {
+  console.log(param);
 }

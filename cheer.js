@@ -1,3 +1,3 @@
-function cheer(param) {
-  console.log(param);
+function cheer() {
+  console.log("Js");
 }
